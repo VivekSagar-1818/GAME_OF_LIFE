@@ -1,5 +1,7 @@
 # Conway's Game of Life (Raylib C++)
 
+![Game of Life Demo](demo.gif)
+
 An interactive, 2D desktop replica of John Conway's famous zero-player cellular automaton—**Conway's Game of Life**—built in C++ using the [Raylib](https://www.raylib.com/) library.
 
 ---
